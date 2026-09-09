@@ -1,0 +1,50 @@
+{
+  "productos": [
+    {
+      "id": "AN-001",
+      "nombre": "Vestido Satinado",
+      "categoria": "Vestidos",
+      "precio": 159900,
+      "descripcion": "Vestido satinado con tiras finas, ideal para ocasiones especiales.",
+      "nuevo": true,
+      "variantes": [
+        {
+          "color": "Lila",
+          "talles": [
+            "S",
+            "M",
+            "L"
+          ],
+          "stock": 12,
+          "agotado": false,
+          "imagenes": [
+            "Pegá acá 1 o más links de Drive",
+            "separados por coma"
+          ]
+        },
+        {
+          "color": "Beige",
+          "talles": [
+            "M",
+            "L",
+            "XL"
+          ],
+          "stock": 0,
+          "agotado": true,
+          "imagenes": [
+            "Pegá acá 1 o más links de Drive",
+            "separados por coma"
+          ]
+        }
+      ]
+    }
+  ],
+  "novedades": [
+    {
+      "orden": 1,
+      "productoId": "AN-001",
+      "imagen": "Pegá acá el link de Google Drive de la foto"
+    }
+  ],
+  "generadoEn": "2026-09-09T22:19:35.649Z"
+}
