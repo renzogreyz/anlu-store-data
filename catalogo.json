@@ -37,6 +37,27 @@
           ]
         }
       ]
+    },
+    {
+      "id": "AN-002",
+      "nombre": "Blusa baby elisas",
+      "categoria": "Blusas",
+      "precio": "$110,00",
+      "descripcion": "Una blusa strapless coral hermosa y fresca, con un original estampado cebra y un favorecedor corte peplo",
+      "nuevo": true,
+      "variantes": [
+        {
+          "color": "Coral",
+          "talles": [
+            "S",
+            "M",
+            "L"
+          ],
+          "stock": 3,
+          "agotado": false,
+          "imagenes": []
+        }
+      ]
     }
   ],
   "novedades": [
@@ -46,5 +67,5 @@
       "imagen": "Pegá acá el link de Google Drive de la foto"
     }
   ],
-  "generadoEn": "2026-09-13T14:00:30.583Z"
+  "generadoEn": "2026-09-13T14:30:31.692Z"
 }
