@@ -1,88 +1,13 @@
 {
   "productos": [
     {
-      "id": "AN-001",
+      "id": "",
       "nombre": "Vestido Satinado",
       "categoria": "Vestidos",
       "precio": 159900,
       "descripcion": "Vestido satinado con tiras finas, ideal para ocasiones especiales.",
       "nuevo": true,
-      "variantes": [
-        {
-          "color": "Lila",
-          "talles": [
-            "S",
-            "M",
-            "L"
-          ],
-          "stock": 12,
-          "agotado": false,
-          "imagenes": [
-            "Pegá acá 1 o más links de Drive",
-            "separados por coma"
-          ]
-        },
-        {
-          "color": "Beige",
-          "talles": [
-            "M",
-            "L",
-            "XL"
-          ],
-          "stock": 0,
-          "agotado": true,
-          "imagenes": [
-            "Pegá acá 1 o más links de Drive",
-            "separados por coma"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "AN-002",
-      "nombre": "Blusa baby elisas",
-      "categoria": "Blusas",
-      "precio": 30000,
-      "descripcion": "Una blusa strapless coral hermosa y fresca, con un original estampado cebra y un favorecedor corte peplo",
-      "nuevo": true,
-      "variantes": [
-        {
-          "color": "Coral",
-          "talles": [
-            "S",
-            "M",
-            "L"
-          ],
-          "stock": 3,
-          "agotado": false,
-          "imagenes": [
-            "https://drive.google.com/thumbnail?id=1iMn7NLe29DwXg4tc2nSdLvc7vHXtHQbq&sz=w1000"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "AN-003",
-      "nombre": "Blusa baby elisas",
-      "categoria": "Blusas",
-      "precio": 30000,
-      "descripcion": "Una blusa strapless Celeste hermosa y refrescante, con un estampado playero y un favorecedor corte peplo",
-      "nuevo": true,
-      "variantes": [
-        {
-          "color": "Celeste",
-          "talles": [
-            "S",
-            "M",
-            "L"
-          ],
-          "stock": 2,
-          "agotado": false,
-          "imagenes": [
-            "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000"
-          ]
-        }
-      ]
+      "variantes": []
     }
   ],
   "novedades": [
@@ -92,5 +17,5 @@
       "imagen": "Pegá acá el link de Google Drive de la foto"
     }
   ],
-  "generadoEn": "2026-09-13T20:00:57.288Z"
+  "generadoEn": "2026-09-13T20:13:06.224Z"
 }
