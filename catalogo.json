@@ -8,6 +8,24 @@
       "descripcion": "Vestido satinado con tiras finas, ideal para ocasiones especiales.",
       "nuevo": true,
       "variantes": []
+    },
+    {
+      "id": "",
+      "nombre": "Blusa baby elisas",
+      "categoria": "Blusas",
+      "precio": 30000,
+      "descripcion": "Una blusa strapless coral hermosa y fresca, con un original estampado cebra y un favorecedor corte peplo",
+      "nuevo": true,
+      "variantes": []
+    },
+    {
+      "id": "",
+      "nombre": "Blusa baby elisas",
+      "categoria": "Blusas",
+      "precio": 30000,
+      "descripcion": "Una blusa strapless Celeste hermosa y refrescante, con un estampado playero y un favorecedor corte peplo",
+      "nuevo": true,
+      "variantes": []
     }
   ],
   "novedades": [
@@ -17,5 +35,5 @@
       "imagen": "Pegá acá el link de Google Drive de la foto"
     }
   ],
-  "generadoEn": "2026-09-13T20:26:04.996Z"
+  "generadoEn": "2026-09-13T20:30:26.145Z"
 }
