@@ -56,7 +56,7 @@
           "stock": 3,
           "agotado": false,
           "imagenes": [
-            "https://drive.google.com/uc?export=view&id=1iMn7NLe29DwXg4tc2nSdLvc7vHXtHQbq"
+            "https://drive.google.com/thumbnail?id=1iMn7NLe29DwXg4tc2nSdLvc7vHXtHQbq&sz=w1000"
           ]
         }
       ]
@@ -79,7 +79,7 @@
           "stock": 2,
           "agotado": false,
           "imagenes": [
-            "https://drive.google.com/uc?export=view&id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm"
+            "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000"
           ]
         }
       ]
@@ -92,5 +92,5 @@
       "imagen": "Pegá acá el link de Google Drive de la foto"
     }
   ],
-  "generadoEn": "2026-09-13T19:03:53.389Z"
+  "generadoEn": "2026-09-13T19:12:50.661Z"
 }
