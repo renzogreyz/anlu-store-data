@@ -58,13 +58,29 @@
           "imagenes": [
             "https://drive.google.com/uc?export=view&id=1iMn7NLe29DwXg4tc2nSdLvc7vHXtHQbq"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "AN-003",
+      "nombre": "Blusa baby elisas",
+      "categoria": "Blusas",
+      "precio": "$110,00",
+      "descripcion": "Una blusa strapless Celeste hermosa y refrescante, con un estampado playero y un favorecedor corte peplo",
+      "nuevo": false,
+      "variantes": [
         {
-          "color": "",
-          "talles": [],
-          "stock": 0,
-          "agotado": true,
-          "imagenes": []
+          "color": "Celeste",
+          "talles": [
+            "S",
+            "M",
+            "L"
+          ],
+          "stock": 2,
+          "agotado": false,
+          "imagenes": [
+            "https://drive.google.com/uc?export=view&id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm"
+          ]
         }
       ]
     }
@@ -76,5 +92,5 @@
       "imagen": "Pegá acá el link de Google Drive de la foto"
     }
   ],
-  "generadoEn": "2026-09-13T19:00:51.714Z"
+  "generadoEn": "2026-09-13T19:03:53.389Z"
 }
