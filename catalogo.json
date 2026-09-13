@@ -55,7 +55,9 @@
           ],
           "stock": 3,
           "agotado": false,
-          "imagenes": []
+          "imagenes": [
+            "https://drive.google.com/uc?export=view&id=1iMn7NLe29DwXg4tc2nSdLvc7vHXtHQbq"
+          ]
         }
       ]
     }
@@ -67,5 +69,5 @@
       "imagen": "Pegá acá el link de Google Drive de la foto"
     }
   ],
-  "generadoEn": "2026-09-13T18:00:29.322Z"
+  "generadoEn": "2026-09-13T18:30:29.173Z"
 }
