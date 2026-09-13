@@ -35,5 +35,25 @@
       "imagen": "Pegá acá el link de Google Drive de la foto"
     }
   ],
-  "generadoEn": "2026-09-13T20:44:23.239Z"
+  "contenidoVisual": {
+    "hero": {
+      "principal": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
+      "secundaria1": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
+      "secundaria2": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000"
+    },
+    "categorias": {
+      "Blusas": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
+      "Bodys": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
+      "Trajes de baño": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
+      "Vestidos": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
+      "Jeans": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
+      "Pijamas": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000"
+    },
+    "esenciaAnlu": {
+      "etiquetaAnlu": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
+      "percheros": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
+      "vestidoEspalda": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000"
+    }
+  },
+  "generadoEn": "2026-09-13T20:52:29.881Z"
 }
