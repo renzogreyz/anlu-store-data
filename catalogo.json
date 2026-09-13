@@ -58,6 +58,13 @@
           "imagenes": [
             "https://drive.google.com/uc?export=view&id=1iMn7NLe29DwXg4tc2nSdLvc7vHXtHQbq"
           ]
+        },
+        {
+          "color": "",
+          "talles": [],
+          "stock": 0,
+          "agotado": true,
+          "imagenes": []
         }
       ]
     }
@@ -69,5 +76,5 @@
       "imagen": "Pegá acá el link de Google Drive de la foto"
     }
   ],
-  "generadoEn": "2026-09-13T18:56:39.903Z"
+  "generadoEn": "2026-09-13T19:00:51.714Z"
 }
