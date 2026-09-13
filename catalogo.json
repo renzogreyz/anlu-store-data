@@ -1,39 +1,100 @@
 {
   "productos": [
     {
-      "id": "",
+      "id": "AN-001",
       "nombre": "Vestido Satinado",
       "categoria": "Vestidos",
       "precio": 159900,
       "descripcion": "Vestido satinado con tiras finas, ideal para ocasiones especiales.",
       "nuevo": true,
-      "variantes": []
+      "variantes": [
+        {
+          "color": "Lila",
+          "talles": [],
+          "stock": 12,
+          "agotado": false,
+          "imagenes": [
+            "Pegá acá 1 o más links de Drive",
+            "separados por coma"
+          ]
+        },
+        {
+          "color": "Beige",
+          "talles": [],
+          "stock": 0,
+          "agotado": true,
+          "imagenes": [
+            "Pegá acá 1 o más links de Drive",
+            "separados por coma"
+          ]
+        }
+      ]
     },
     {
-      "id": "",
+      "id": "AN-002",
       "nombre": "Blusa baby elisas",
       "categoria": "Blusas",
       "precio": 30000,
       "descripcion": "Una blusa strapless coral hermosa y fresca, con un original estampado cebra y un favorecedor corte peplo",
       "nuevo": true,
-      "variantes": []
+      "variantes": [
+        {
+          "color": "Coral",
+          "talles": [],
+          "stock": 3,
+          "agotado": false,
+          "imagenes": [
+            "https://drive.google.com/thumbnail?id=1iMn7NLe29DwXg4tc2nSdLvc7vHXtHQbq&sz=w1000"
+          ]
+        }
+      ]
     },
     {
-      "id": "",
+      "id": "AN-003",
       "nombre": "Blusa baby elisas",
       "categoria": "Blusas",
       "precio": 30000,
       "descripcion": "Una blusa strapless Celeste hermosa y refrescante, con un estampado playero y un favorecedor corte peplo",
       "nuevo": true,
-      "variantes": []
+      "variantes": [
+        {
+          "color": "Celeste",
+          "talles": [],
+          "stock": 2,
+          "agotado": false,
+          "imagenes": [
+            "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000"
+          ]
+        }
+      ]
     }
   ],
   "novedades": [
     {
       "orden": 1,
-      "productoId": "AN-001",
+      "productoId": "",
       "imagen": "Pegá acá el link de Google Drive de la foto"
     }
   ],
-  "generadoEn": "2026-09-13T21:00:26.162Z"
+  "contenidoVisual": {
+    "hero": {
+      "principal": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
+      "secundaria1": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
+      "secundaria2": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000"
+    },
+    "categorias": {
+      "Blusas": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
+      "Bodys": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
+      "Trajes de baño": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
+      "Vestidos": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
+      "Jeans": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
+      "Pijamas": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000"
+    },
+    "esenciaAnlu": {
+      "etiquetaAnlu": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
+      "percheros": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
+      "vestidoEspalda": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000"
+    }
+  },
+  "generadoEn": "2026-09-13T21:04:09.330Z"
 }
