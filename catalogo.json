@@ -42,7 +42,7 @@
       "id": "AN-002",
       "nombre": "Blusa baby elisas",
       "categoria": "Blusas",
-      "precio": 110000,
+      "precio": 30000,
       "descripcion": "Una blusa strapless coral hermosa y fresca, con un original estampado cebra y un favorecedor corte peplo",
       "nuevo": true,
       "variantes": [
@@ -65,7 +65,7 @@
       "id": "AN-003",
       "nombre": "Blusa baby elisas",
       "categoria": "Blusas",
-      "precio": 110000,
+      "precio": 30000,
       "descripcion": "Una blusa strapless Celeste hermosa y refrescante, con un estampado playero y un favorecedor corte peplo",
       "nuevo": true,
       "variantes": [
@@ -92,5 +92,5 @@
       "imagen": "Pegá acá el link de Google Drive de la foto"
     }
   ],
-  "generadoEn": "2026-09-13T19:17:51.205Z"
+  "generadoEn": "2026-09-13T19:20:13.064Z"
 }
