@@ -10,23 +10,25 @@
       "variantes": [
         {
           "color": "Lila",
-          "talles": [],
+          "talles": [
+            "S",
+            "M",
+            "L"
+          ],
           "stock": 12,
           "agotado": false,
-          "imagenes": [
-            "Pegá acá 1 o más links de Drive",
-            "separados por coma"
-          ]
+          "imagenes": []
         },
         {
           "color": "Beige",
-          "talles": [],
+          "talles": [
+            "M",
+            "L",
+            "XL"
+          ],
           "stock": 0,
           "agotado": true,
-          "imagenes": [
-            "Pegá acá 1 o más links de Drive",
-            "separados por coma"
-          ]
+          "imagenes": []
         }
       ]
     },
@@ -40,7 +42,11 @@
       "variantes": [
         {
           "color": "Coral",
-          "talles": [],
+          "talles": [
+            "S",
+            "M",
+            "L"
+          ],
           "stock": 3,
           "agotado": false,
           "imagenes": [
@@ -59,7 +65,11 @@
       "variantes": [
         {
           "color": "Celeste",
-          "talles": [],
+          "talles": [
+            "S",
+            "M",
+            "L"
+          ],
           "stock": 2,
           "agotado": false,
           "imagenes": [
@@ -69,13 +79,7 @@
       ]
     }
   ],
-  "novedades": [
-    {
-      "orden": 1,
-      "productoId": "",
-      "imagen": "Pegá acá el link de Google Drive de la foto"
-    }
-  ],
+  "novedades": [],
   "contenidoVisual": {
     "hero": {
       "principal": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
@@ -96,5 +100,5 @@
       "vestidoEspalda": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000"
     }
   },
-  "generadoEn": "2026-10-21T23:34:15.707Z"
+  "generadoEn": "2026-10-21T23:56:25.637Z"
 }
