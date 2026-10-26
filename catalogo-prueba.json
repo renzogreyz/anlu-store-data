@@ -1,8 +1,37 @@
 {
   "combos": [],
   "novedades": [],
-  "productos": [],
-  "generadoEn": "2026-10-26T18:37:14.886057+00:00",
+  "productos": [
+    {
+      "id": "AN-001",
+      "nuevo": true,
+      "nombre": "Blusa tiras",
+      "precio": 25000,
+      "categoria": "Blusas",
+      "variantes": [
+        {
+          "color": "Lila",
+          "stock": 1,
+          "talles": [
+            "S/M"
+          ],
+          "agotado": false,
+          "imagenes": [
+            "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/productos/ca69d241-e98f-481d-8231-adf3f9bfc112/e98d35b6-5c22-43b0-87d9-6c6226c337b6/3064dff3-d4ca-40f1-bdac-8b254aae9ef7.webp"
+          ],
+          "tallesDetalle": [
+            {
+              "stock": 1,
+              "talle": "S/M"
+            }
+          ]
+        }
+      ],
+      "descripcion": "Blusa corta con tiras ajustable a los lados.",
+      "precioOferta": null
+    }
+  ],
+  "generadoEn": "2026-10-26T23:09:47.458123+00:00",
   "contenidoTexto": {
     "heroFrase": "Siéntete única, siéntete tú",
     "heroTitulo": "Ropa que realza tu esencia",
