@@ -1,0 +1,35 @@
+{
+  "combos": [],
+  "novedades": [],
+  "productos": [],
+  "generadoEn": "2026-10-26T01:43:16.924525+00:00",
+  "contenidoTexto": {
+    "heroFrase": "Siéntete única, siéntete tú",
+    "heroTitulo": "Ropa que realza tu esencia",
+    "barraAnuncio": "Envíos a toda Colombia · Pago contraentrega disponible · Compra 100% segura",
+    "esenciaTexto": "En Anlu creemos que cada prenda puede acompañarte a mostrar una parte de ti. Queremos ofrecerte diseños que te hagan sentir cómoda, segura y auténtica.",
+    "esenciaTitulo": "Más que ropa, una forma de expresarte",
+    "heroSubtitulo": "Diseños para mujeres que quieren sentirse cómodas, auténticas y hermosas siendo ellas mismas.",
+    "footerContacto": "WhatsApp +57 312 604 5120 · anlustorecol@gmail.com · Envíos a toda Colombia"
+  },
+  "contenidoVisual": {
+    "hero": {
+      "principal": null,
+      "secundaria1": null,
+      "secundaria2": null
+    },
+    "categorias": {
+      "Bodys": null,
+      "Jeans": null,
+      "Blusas": null,
+      "Pijamas": null,
+      "Vestidos": null,
+      "Trajes de baño": null
+    },
+    "esenciaAnlu": {
+      "percheros": null,
+      "etiquetaAnlu": null,
+      "vestidoEspalda": null
+    }
+  }
+}
