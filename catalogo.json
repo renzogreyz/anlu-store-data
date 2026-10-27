@@ -1,125 +1,98 @@
 {
+  "combos": [],
+  "novedades": [],
   "productos": [
     {
       "id": "AN-001",
-      "nombre": "Vestido Satinado",
-      "categoria": "Vestidos",
-      "precio": 159900,
-      "descripcion": "Vestido satinado con tiras finas, ideal para ocasiones especiales.",
       "nuevo": true,
+      "nombre": "Body Lu",
+      "precio": 25000,
+      "categoria": "Bodys",
       "variantes": [
         {
-          "color": "Lila",
+          "color": "Blanco",
+          "stock": 1,
           "talles": [
-            "S",
-            "M",
-            "L"
+            "Talla única"
           ],
-          "stock": 12,
           "agotado": false,
-          "imagenes": []
+          "imagenes": [
+            "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/productos/9cabd802-9cb8-4d34-abb0-9cb1bb8993fe/generales/626840d0-2786-4e5a-b157-bd634d7a0bf5.webp"
+          ],
+          "tallesDetalle": [
+            {
+              "stock": 1,
+              "talle": "Talla única"
+            }
+          ]
         },
         {
-          "color": "Beige",
+          "color": "Negro",
+          "stock": 1,
           "talles": [
-            "M",
-            "L",
-            "XL"
+            "Talla única"
           ],
-          "stock": 0,
-          "agotado": true,
-          "imagenes": []
-        }
-      ]
-    },
-    {
-      "id": "AN-002",
-      "nombre": "Blusa baby elisas",
-      "categoria": "Blusas",
-      "precio": 30000,
-      "descripcion": "Una blusa strapless coral hermosa y fresca, con un original estampado cebra y un favorecedor corte peplo",
-      "nuevo": true,
-      "variantes": [
-        {
-          "color": "Coral",
-          "talles": [
-            "S",
-            "M",
-            "L"
-          ],
-          "stock": 3,
           "agotado": false,
           "imagenes": [
-            "https://drive.google.com/thumbnail?id=1iMn7NLe29DwXg4tc2nSdLvc7vHXtHQbq&sz=w1000"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "AN-003",
-      "nombre": "Blusa baby elisas",
-      "categoria": "Blusas",
-      "precio": 30000,
-      "descripcion": "Una blusa strapless Celeste hermosa y refrescante, con un estampado playero y un favorecedor corte peplo",
-      "nuevo": true,
-      "variantes": [
-        {
-          "color": "Celeste",
-          "talles": [
-            "S",
-            "M",
-            "L"
+            "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/productos/9cabd802-9cb8-4d34-abb0-9cb1bb8993fe/generales/626840d0-2786-4e5a-b157-bd634d7a0bf5.webp"
           ],
-          "stock": 2,
+          "tallesDetalle": [
+            {
+              "stock": 1,
+              "talle": "Talla única"
+            }
+          ]
+        },
+        {
+          "color": "Palo de rosa",
+          "stock": 1,
+          "talles": [
+            "Talla única"
+          ],
           "agotado": false,
           "imagenes": [
-            "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "AN-021",
-      "nombre": "Body Drap ",
-      "categoria": "Bodys",
-      "precio": 25000,
-      "descripcion": "",
-      "nuevo": true,
-      "variantes": [
-        {
-          "color": "Chocolate, Azul claro, Amarillo pastel",
-          "talles": [
-            "Única"
+            "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/productos/9cabd802-9cb8-4d34-abb0-9cb1bb8993fe/generales/626840d0-2786-4e5a-b157-bd634d7a0bf5.webp"
           ],
-          "stock": 3,
-          "agotado": false,
-          "imagenes": [
-            "https://drive.google.com/thumbnail?id=1406zl06KPIEZ0xS-_dObwKYw-MGJLSrf&sz=w1000"
+          "tallesDetalle": [
+            {
+              "stock": 1,
+              "talle": "Talla única"
+            }
           ]
         }
-      ]
+      ],
+      "descripcion": null,
+      "precioOferta": null
     }
   ],
-  "novedades": [],
+  "generadoEn": "2026-10-27T01:02:43.033435+00:00",
+  "contenidoTexto": {
+    "heroFrase": "Siéntete única, siéntete tú",
+    "heroTitulo": "Ropa que realza tu delicadeza y elegancia",
+    "barraAnuncio": "Envíos a toda Colombia · Compra 100% segura",
+    "esenciaTexto": "En Anlu creemos que cada prenda puede acompañarte a mostrar una parte de ti.",
+    "esenciaTitulo": "Más que ropa, una forma de expresarte",
+    "heroSubtitulo": "Prendas para mujeres que quieren sentirse cómodas, auténticas y hermosas siendo ellas mismas.",
+    "footerContacto": "WhatsApp +57 312 604 5120 · anlustorecol@gmail.com · Envíos a toda Colombia"
+  },
   "contenidoVisual": {
     "hero": {
-      "principal": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
-      "secundaria1": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
-      "secundaria2": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000"
+      "principal": null,
+      "secundaria1": null,
+      "secundaria2": null
     },
     "categorias": {
-      "Blusas": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
-      "Bodys": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
-      "Trajes de baño": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
-      "Vestidos": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
-      "Jeans": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
-      "Pijamas": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000"
+      "Bodys": null,
+      "Jeans": null,
+      "Blusas": null,
+      "Pijamas": null,
+      "Vestidos": null,
+      "Trajes de baño": null
     },
     "esenciaAnlu": {
-      "etiquetaAnlu": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
-      "percheros": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000",
-      "vestidoEspalda": "https://drive.google.com/thumbnail?id=1bx8BOtQsyPBTfjoCwb5-ppikhX-G4uKm&sz=w1000"
+      "percheros": null,
+      "etiquetaAnlu": null,
+      "vestidoEspalda": null
     }
-  },
-  "generadoEn": "2026-10-27T00:30:22.160Z"
+  }
 }
