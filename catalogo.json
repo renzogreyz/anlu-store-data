@@ -3,6 +3,62 @@
   "novedades": [],
   "productos": [
     {
+      "id": "AN-007",
+      "nuevo": true,
+      "nombre": "Crop top",
+      "precio": 20000,
+      "categoria": "Blusas",
+      "variantes": [
+        {
+          "color": "Negro - animal print",
+          "stock": 1,
+          "talles": [
+            "S"
+          ],
+          "agotado": false,
+          "imagenes": [
+            "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/productos/2652d42b-37d1-4435-8089-7ac917a82f20/generales/6fc72d23-4b99-45cc-9ea7-2f852152e658.webp"
+          ],
+          "tallesDetalle": [
+            {
+              "stock": 1,
+              "talle": "S"
+            }
+          ]
+        }
+      ],
+      "descripcion": "Crop top estilo pañoleta, doble faz.",
+      "precioOferta": null
+    },
+    {
+      "id": "AN-006",
+      "nuevo": true,
+      "nombre": "Blusa Cers",
+      "precio": 25000,
+      "categoria": "Blusas",
+      "variantes": [
+        {
+          "color": "Lila",
+          "stock": 1,
+          "talles": [
+            "S/M"
+          ],
+          "agotado": false,
+          "imagenes": [
+            "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/productos/885c59e4-0ac7-445b-be8c-71ad5d2afb45/generales/c0ac8cbc-e844-4a91-8460-58bb524370e7.webp"
+          ],
+          "tallesDetalle": [
+            {
+              "stock": 1,
+              "talle": "S/M"
+            }
+          ]
+        }
+      ],
+      "descripcion": "Blusa corta de tiras ajustables a los lados.",
+      "precioOferta": null
+    },
+    {
       "id": "AN-005",
       "nuevo": true,
       "nombre": "Body Pily",
@@ -228,7 +284,7 @@
       "precioOferta": null
     }
   ],
-  "generadoEn": "2026-10-27T01:34:04.088887+00:00",
+  "generadoEn": "2026-10-27T01:42:56.188906+00:00",
   "contenidoTexto": {
     "heroFrase": "Siéntete única, siéntete tú",
     "heroTitulo": "Ropa que realza tu delicadeza y elegancia",
