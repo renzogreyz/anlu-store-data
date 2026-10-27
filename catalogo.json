@@ -3,6 +3,169 @@
   "novedades": [],
   "productos": [
     {
+      "id": "AN-005",
+      "nuevo": true,
+      "nombre": "Body Pily",
+      "precio": 25000,
+      "categoria": "Bodys",
+      "variantes": [
+        {
+          "color": "Lila",
+          "stock": 1,
+          "talles": [
+            "Talla única"
+          ],
+          "agotado": false,
+          "imagenes": [
+            "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/productos/c577f2f4-398a-4bbd-a694-4bd02e664735/generales/eba5306a-1356-4fde-8bee-58e58d41e062.webp"
+          ],
+          "tallesDetalle": [
+            {
+              "stock": 1,
+              "talle": "Talla única"
+            }
+          ]
+        },
+        {
+          "color": "Negro",
+          "stock": 1,
+          "talles": [
+            "Talla única"
+          ],
+          "agotado": false,
+          "imagenes": [
+            "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/productos/c577f2f4-398a-4bbd-a694-4bd02e664735/generales/eba5306a-1356-4fde-8bee-58e58d41e062.webp"
+          ],
+          "tallesDetalle": [
+            {
+              "stock": 1,
+              "talle": "Talla única"
+            }
+          ]
+        }
+      ],
+      "descripcion": null,
+      "precioOferta": null
+    },
+    {
+      "id": "AN-004",
+      "nuevo": true,
+      "nombre": "Body Nar",
+      "precio": 25000,
+      "categoria": "Bodys",
+      "variantes": [
+        {
+          "color": "Chocolate",
+          "stock": 1,
+          "talles": [
+            "Talla única"
+          ],
+          "agotado": false,
+          "imagenes": [
+            "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/productos/234247e0-8e11-459b-9604-41b3e797ecc8/generales/285c09ba-bc68-4615-8228-ea01122c1c75.webp"
+          ],
+          "tallesDetalle": [
+            {
+              "stock": 1,
+              "talle": "Talla única"
+            }
+          ]
+        },
+        {
+          "color": "Palo de rosa",
+          "stock": 1,
+          "talles": [
+            "Talla única"
+          ],
+          "agotado": false,
+          "imagenes": [
+            "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/productos/234247e0-8e11-459b-9604-41b3e797ecc8/generales/285c09ba-bc68-4615-8228-ea01122c1c75.webp"
+          ],
+          "tallesDetalle": [
+            {
+              "stock": 1,
+              "talle": "Talla única"
+            }
+          ]
+        }
+      ],
+      "descripcion": null,
+      "precioOferta": null
+    },
+    {
+      "id": "AN-003",
+      "nuevo": true,
+      "nombre": "Body An",
+      "precio": 25000,
+      "categoria": "Bodys",
+      "variantes": [
+        {
+          "color": "Rodado",
+          "stock": 1,
+          "talles": [
+            "Talla única"
+          ],
+          "agotado": false,
+          "imagenes": [
+            "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/productos/3703ebdd-3365-49e7-87b6-d2f2c7b0c732/generales/9f94bfdc-a24f-46a8-a23e-974d14f7ae30.webp"
+          ],
+          "tallesDetalle": [
+            {
+              "stock": 1,
+              "talle": "Talla única"
+            }
+          ]
+        },
+        {
+          "color": "Amarillo pastel",
+          "stock": 1,
+          "talles": [
+            "Talla única"
+          ],
+          "agotado": false,
+          "imagenes": [
+            "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/productos/3703ebdd-3365-49e7-87b6-d2f2c7b0c732/generales/9f94bfdc-a24f-46a8-a23e-974d14f7ae30.webp"
+          ],
+          "tallesDetalle": [
+            {
+              "stock": 1,
+              "talle": "Talla única"
+            }
+          ]
+        }
+      ],
+      "descripcion": null,
+      "precioOferta": null
+    },
+    {
+      "id": "AN-002",
+      "nuevo": true,
+      "nombre": "Body Drap",
+      "precio": 25000,
+      "categoria": "Bodys",
+      "variantes": [
+        {
+          "color": "Azul cielo",
+          "stock": 1,
+          "talles": [
+            "Talla única"
+          ],
+          "agotado": false,
+          "imagenes": [
+            "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/productos/655a304b-d8c2-4cf9-a601-c8e2f04d3f03/generales/f22bd144-24b6-4585-8393-b16ed4cbecef.webp"
+          ],
+          "tallesDetalle": [
+            {
+              "stock": 1,
+              "talle": "Talla única"
+            }
+          ]
+        }
+      ],
+      "descripcion": null,
+      "precioOferta": null
+    },
+    {
       "id": "AN-001",
       "nuevo": true,
       "nombre": "Body Lu",
@@ -65,7 +228,7 @@
       "precioOferta": null
     }
   ],
-  "generadoEn": "2026-10-27T01:02:43.033435+00:00",
+  "generadoEn": "2026-10-27T01:34:04.088887+00:00",
   "contenidoTexto": {
     "heroFrase": "Siéntete única, siéntete tú",
     "heroTitulo": "Ropa que realza tu delicadeza y elegancia",
