@@ -18,6 +18,34 @@
   ],
   "productos": [
     {
+      "id": "AN-008",
+      "nuevo": true,
+      "nombre": "Blusa Dum",
+      "precio": 35000,
+      "categoria": "Blusas",
+      "variantes": [
+        {
+          "color": "Chocolate",
+          "stock": 1,
+          "talles": [
+            "S/M"
+          ],
+          "agotado": false,
+          "imagenes": [
+            "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/productos/f40d5204-8b72-42d6-b46d-c66a31e5f724/generales/19a99db6-f716-4d9c-8606-1384e5fb3965.webp"
+          ],
+          "tallesDetalle": [
+            {
+              "stock": 1,
+              "talle": "S/M"
+            }
+          ]
+        }
+      ],
+      "descripcion": null,
+      "precioOferta": null
+    },
+    {
       "id": "AN-007",
       "nuevo": true,
       "nombre": "Crop top",
@@ -299,7 +327,7 @@
       "precioOferta": null
     }
   ],
-  "generadoEn": "2026-10-28T18:45:40.210896+00:00",
+  "generadoEn": "2026-10-28T18:47:49.294399+00:00",
   "contenidoTexto": {
     "heroFrase": "Siéntete única, siéntete tú",
     "heroTitulo": "Ropa que realza tu delicadeza y elegancia",
