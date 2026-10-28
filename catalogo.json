@@ -11,7 +11,7 @@
     {
       "orden": 1,
       "activo": true,
-      "imagen": "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/vidriera/186e7da9-f5bd-4043-9db2-47375048ddce.webp",
+      "imagen": "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/vidriera/cbc6d238-54b8-428a-b7ed-ba6bdf296086.webp",
       "comboId": null,
       "productoId": null
     }
@@ -299,7 +299,7 @@
       "precioOferta": null
     }
   ],
-  "generadoEn": "2026-10-28T18:12:46.350275+00:00",
+  "generadoEn": "2026-10-28T18:15:39.422656+00:00",
   "contenidoTexto": {
     "heroFrase": "Siéntete única, siéntete tú",
     "heroTitulo": "Ropa que realza tu delicadeza y elegancia",
