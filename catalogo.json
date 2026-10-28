@@ -299,7 +299,7 @@
       "precioOferta": null
     }
   ],
-  "generadoEn": "2026-10-28T18:15:39.422656+00:00",
+  "generadoEn": "2026-10-28T18:34:48.308531+00:00",
   "contenidoTexto": {
     "heroFrase": "Siéntete única, siéntete tú",
     "heroTitulo": "Ropa que realza tu delicadeza y elegancia",
@@ -311,17 +311,17 @@
   },
   "contenidoVisual": {
     "hero": {
-      "principal": null,
+      "principal": "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/vidriera/df85528a-4355-4f93-b77a-be89a78feb7c.webp",
       "secundaria1": null,
       "secundaria2": null
     },
     "categorias": {
-      "Bodys": null,
-      "Jeans": null,
-      "Blusas": null,
+      "Bodys": "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/categorias/ce559872-56ed-443e-8ac0-f1da6a0e513e.webp",
+      "Jeans": "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/categorias/24bb39df-af27-437d-aec6-bb7a7b0b1c37.webp",
+      "Blusas": "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/categorias/a1476af7-31ba-45a9-b656-aadc38ddcd0f.webp",
       "Pijamas": null,
       "Vestidos": null,
-      "Trajes de baño": null
+      "Trajes de baño": "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/categorias/995c76d7-b136-47d1-9c92-a041485f8034.webp"
     },
     "esenciaAnlu": {
       "percheros": null,
