@@ -1,6 +1,21 @@
 {
   "combos": [],
-  "novedades": [],
+  "novedades": [
+    {
+      "orden": 0,
+      "activo": true,
+      "imagen": "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/vidriera/4170392f-4dfc-4545-a2d0-0bcddc0dd659.webp",
+      "comboId": null,
+      "productoId": null
+    },
+    {
+      "orden": 1,
+      "activo": true,
+      "imagen": "https://psehsebacuxwszxoirga.supabase.co/storage/v1/object/public/fotos/vidriera/186e7da9-f5bd-4043-9db2-47375048ddce.webp",
+      "comboId": null,
+      "productoId": null
+    }
+  ],
   "productos": [
     {
       "id": "AN-007",
@@ -284,7 +299,7 @@
       "precioOferta": null
     }
   ],
-  "generadoEn": "2026-10-27T01:42:56.188906+00:00",
+  "generadoEn": "2026-10-28T18:12:46.350275+00:00",
   "contenidoTexto": {
     "heroFrase": "Siéntete única, siéntete tú",
     "heroTitulo": "Ropa que realza tu delicadeza y elegancia",
